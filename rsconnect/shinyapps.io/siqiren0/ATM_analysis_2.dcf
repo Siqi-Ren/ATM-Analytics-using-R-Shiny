@@ -1,0 +1,13 @@
+name: ATM_analysis_2
+title: ATM_analysis_2
+username:
+account: siqiren0
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2184438
+bundleId: 3067077
+url: https://siqiren0.shinyapps.io/ATM_analysis_2/
+when: 1587908697.0914
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app -v1.R|atm_all_cleaned.rds

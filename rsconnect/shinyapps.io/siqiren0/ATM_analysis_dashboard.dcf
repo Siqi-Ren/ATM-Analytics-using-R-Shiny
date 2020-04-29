@@ -1,0 +1,13 @@
+name: ATM_analysis_dashboard
+title: ATM_analysis_dashboard
+username:
+account: siqiren0
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2183747
+bundleId: 3063273
+url: https://siqiren0.shinyapps.io/ATM_analysis_dashboard/
+when: 1587817606.38751
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: yuqi_part.R
